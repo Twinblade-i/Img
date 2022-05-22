@@ -1,2 +1,2 @@
 # Img
-This is the library of blogs published on Web.
+This is the library of pictures published on Web.
